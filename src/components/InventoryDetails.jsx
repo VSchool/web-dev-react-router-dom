@@ -6,7 +6,7 @@ function InventoryDetails() {
 
     return ( 
         <div>
-            
+            inventory details
         </div>
      );
 }
